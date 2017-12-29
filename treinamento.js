@@ -7,6 +7,7 @@ export default class Treimanento {
      * fazer merge com a master.
      * 
      * versao alterada no branch  sprint-2-cadastro
+     * 
      */
     constructor(){
 
