@@ -6,7 +6,7 @@ export default class Treimanento {
      * estável. Logo, você nunca irá mexer diretamente nela, mas em outras branchs, para então 
      * fazer merge com a master.
      * 
-     * Alterado na developer
+     * Alterado na developer - cadastro
      */
 
     constructor(){
