@@ -8,7 +8,6 @@ export default class Treimanento {
      * 
      * versao alterada no branch  sprint-2-cadastro
      */
-
     constructor(){
 
     }
